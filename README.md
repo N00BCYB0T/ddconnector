@@ -13,7 +13,7 @@ To use the “ddconnector” service, follow these steps:
 
 ## Clone this repository:
 ```bash
-git clone https://dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector
+git clone https://github.com/N00BCYB0T/ddconnector.git
 ```
 
 Configure environment variables and configuration files according to your implementation.
@@ -35,3 +35,4 @@ sudo docker run --name ms-ddconnector -d -e DD_API_KEY=<API_KEY> -p 21777:21777 
 
 # License
 This microservice was developed by d4mn20 and it is licensed under the MIT License.
+
